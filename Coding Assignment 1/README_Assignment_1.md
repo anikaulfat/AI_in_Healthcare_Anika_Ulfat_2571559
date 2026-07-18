@@ -40,17 +40,6 @@ I made three plots to evaluate the models:
   false negatives.
 - A ROC curve with the AUC score for Logistic Regression.
 
-## How to Run
-
-Install the packages and open the notebook:
-
-```bash
-pip install -r requirements.txt
-jupyter notebook Coding_Assignment_1.ipynb
-```
-
-Just run the cells from top to bottom. The plots show up inline.
-
 ## Packages Used
 
 ```

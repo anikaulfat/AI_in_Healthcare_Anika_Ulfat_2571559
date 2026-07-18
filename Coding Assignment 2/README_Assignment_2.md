@@ -45,16 +45,6 @@ All three plots are also saved as PNG files when the notebook runs:
 - A confusion matrix heatmap for the Gradient Boosting model, showing the
   false positives and false negatives.
 
-## How to Run
-
-```bash
-pip install -r requirements.txt
-jupyter notebook Coding_Assignment_2.ipynb
-```
-
-Run the cells in order. The plots show up inline and are also saved to the
-folder as PNG files.
-
 ## Packages Used
 
 ```
